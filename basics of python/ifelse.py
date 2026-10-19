@@ -40,19 +40,18 @@ marks=float(input("ENTER THE MARKS OBTAINED: "))
 
 if(marks>=90 and marks<=100):
     print("Grade = 'A'")
-    print()
+    
 
 elif(marks>=80 and marks<90):
     print("Grade = 'B'")
-    print()
+    
 
 elif(marks>=70 and marks<80):
     print("Grade = 'C'")
-    print()
+    
 
 else:
     print("Grade = 'D'")
-    print()
 
 # Nesting
 
